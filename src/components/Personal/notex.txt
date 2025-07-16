@@ -1,0 +1,3 @@
+#C48388 = the pink 
+#85697A = the purple 
+#EEA990 = orange 
